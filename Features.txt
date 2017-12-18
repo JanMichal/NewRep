@@ -1,1 +1,2 @@
-Zmiana z mastera
+Zmiana z brancha feature2
+
