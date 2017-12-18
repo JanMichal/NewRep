@@ -1,1 +1,1 @@
-Text has been changed.
+Zmiana z brancha feature2
